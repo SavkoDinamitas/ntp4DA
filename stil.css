@@ -1,0 +1,134 @@
+#naslov{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#navigacija{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 0px;
+    padding-top: 0px;
+    top: -30px;
+    left: 500px;
+}
+
+#levo{
+    margin-left: 400px;
+}
+
+a.na{
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a.na:hover{
+    color: dodgerblue;
+}
+
+#str{
+    color: rgb(52, 52, 202);
+}
+
+#str:hover{
+    color: dodgerblue;
+}
+
+nav{
+    
+}
+
+p{
+    text-align: justify;
+}
+
+header{
+    margin-left: 50px;
+}
+
+#slicica{
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 0;
+}
+
+body{
+    width: 2146;
+}
+
+#poz{
+    padding-left: 0;
+    margin-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    opacity: 0.7;
+}
+
+.poc{
+    width: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-right: auto;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-left: 2px dashed orange;
+    border-right: 2px dashed orange;
+}
+
+#podnaslov{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+}
+#milos{
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.placeholder{
+    height: 100px;
+}
+
+#nsl{
+    position: relative;
+    width: 1000px;
+    height: 150px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    top: -500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#ori{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 46px;
+}
+
+#crk{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #101010;
+}
