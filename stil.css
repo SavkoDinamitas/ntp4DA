@@ -18,7 +18,10 @@
 }
 
 #levo{
-    margin-left: 400px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
 }
 
 a.na{
@@ -41,7 +44,7 @@ a.na:hover{
 }
 
 nav{
-    
+    width: 100%;
 }
 
 p{
@@ -51,6 +54,8 @@ p{
 header{
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+    position: relative;
 }
 
 #slicica{
@@ -68,6 +73,7 @@ body.prva{
 
 
 #poz{
+    width: 100%;
     padding-left: 0;
     margin-left: 0;
     padding-right: 0;
@@ -86,7 +92,7 @@ body.prva{
 }
 
 .poc{
-    width: 750px;
+    width: 40%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: justify;
@@ -107,10 +113,10 @@ body.prva{
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    width: 750px;
+    width: 40%;
 }
 #milos{
-    width: 750px;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
     
@@ -122,7 +128,7 @@ body.prva{
 
 #nsl{
     position: relative;
-    width: 1000px;
+    width: 50%;
     height: 150px;
     padding-top: 0;
     padding-bottom: 0;
@@ -160,7 +166,7 @@ body.prva{
 
 #kompas{
     margin-top: 50px;
-    width: 750px;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 40px;
