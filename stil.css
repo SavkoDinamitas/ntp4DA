@@ -68,9 +68,9 @@ header{
 }
 
 body.prva{
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -253,8 +253,8 @@ body.prva{
     display: inline;
     width: 30%;
     height: 200px;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 table{
@@ -322,4 +322,7 @@ footer{
 #slj{
     padding-top: 0px;
     margin-top: 0px;
+}
+footer{
+    border: 2px solid black;
 }
